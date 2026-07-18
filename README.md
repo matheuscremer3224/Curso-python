@@ -1,4 +1,4 @@
-🐍 Curso Básico de Python
+🐍 Curso Básico ao avançado de Python
 
 Este repositório contém todos os códigos e exercícios desenvolvidos durante o meu curso básico de Python. 
 O foco principal deste projeto é documentar o aprendizado através da aplicação prática rigorosa, 
